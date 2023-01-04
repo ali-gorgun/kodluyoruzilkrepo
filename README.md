@@ -6,7 +6,7 @@ Kodluyoruz Eğitimi kapsamında açtığım ilk repo
 bu repo Bu repo [Kodluyoruz](https://www.kodluyoruz.org) gıt egıtımde olusturdugumuz ılk repo.ıcerısınde bır ader README dosyası ve bır adet ındex.html barindiriyor.
 
 
-![github](figures/github.png)
+![github](github.png)
 
 
 
