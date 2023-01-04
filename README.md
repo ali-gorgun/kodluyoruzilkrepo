@@ -1,10 +1,17 @@
 # kodluyoruzilkrepo
+
 Kodluyoruz Eğitimi kapsamında açtığım ilk repo
+
+
 bu repo Bu repo [Kodluyoruz](https://www.kodluyoruz.org) gıt egıtımde olusturdugumuz ılk repo.ıcerısınde bır ader README dosyası ve bır adet ındex.html barindiriyor.
+
+
 ![github](figures/github.png)
 
 
+
 ## Installation
+
 
 ```bash
 git clone (https://github.com/ali-gorgun/kodluyoruzilkrepo.git)
@@ -24,5 +31,4 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 
 
 ## License
-[MIT](https://choosealicense.com/licenses/mit/)
-.
+[MIT](https://choosealicense.com/licenses/mit/) 
